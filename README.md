@@ -66,7 +66,7 @@ Redis-Client/
 
 ## ✍️Project Demo
 
-![CLI Demo](assets/demo.gif)
+![CLI Demo](assets/CLIENT-SIDE-DEMO-REDIS.png)
 
 ------------------------------------------------------
 
