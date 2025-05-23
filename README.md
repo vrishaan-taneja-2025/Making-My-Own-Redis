@@ -105,3 +105,14 @@ Supports all common Redis types:
   Color-coded output
   
   TLS/SSL support
+
+
+
+## 🙏 Acknowledgements
+
+This project was inspired and guided by [Dev w/Sel](https://www.youtube.com/watch?v=Z3jtQyj88S0&list=PL6F3pyVdiAkcgvk8Zn4_GKDk9ClGjzNEP).  
+Much of the structure and approach follows their excellent explanation. Thank you!
+
+> ❗Note: This project was not originally designed by me. It was built entirely by following a tutorial, with the purpose of learning and reviewing the internal logic of Redis communication.
+
+I am now working on understanding each component fully, and I plan to make meaningful changes (e.g., adding RESP3, logging, etc.) as I grow.
